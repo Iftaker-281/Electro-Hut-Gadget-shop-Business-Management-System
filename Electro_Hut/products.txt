@@ -1,0 +1,5 @@
+01,Airbuds,2450.0,4,AeroTech
+02,Rechargeable_Fan,2650.0,3,Nokia
+03,Movile Cover,250.0,10,I Phone
+04,Machine Gun,310.0,5,HIUIX
+05,FITRON 2500,4900.0,2,Watch
